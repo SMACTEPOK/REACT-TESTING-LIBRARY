@@ -15,7 +15,7 @@ export default function Lab16Page() {
   return (
     <div className="lab-page">
       <header className="lab-header">
-        <h1 className="lab-title">LAB 16<br/>TESTING</h1>
+        <h1 className="lab-title">TESTING</h1>
         <p className="lab-subtitle">React Testing Library & Vitest</p>
       </header>
       <main className="lab-main">
